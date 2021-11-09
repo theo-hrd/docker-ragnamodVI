@@ -19,4 +19,4 @@ services:
     restart: unless-stopped
     
     volumes:
-     - /home/theodev/mc/volume:/data
+     - /home/mc/volume:/data
