@@ -1,5 +1,5 @@
 ## Steps:
- - change volume in `docker-compoe.yml` where you want it to be
+ - change volume in `docker-compose.yml` where you want it to be
  - docker-compose up
  - open "volume/server-setup-config.yaml"
  - modify `checkOffline: yes` to `no` line `124`
