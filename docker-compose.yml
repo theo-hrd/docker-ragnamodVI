@@ -9,7 +9,6 @@ services:
       EULA: "TRUE"
       TYPE: "CURSEFORGE"
       CF_SERVER_MOD: https://media.forgecdn.net/files/3516/954/RagnamodVI-Serverfiles-6.0.24.zip
-      SPIGET_RESOURCES: 48853
       DIFFICULTY: normal
       ALLOW_FLIGHT: "true"
       OPS: TwentyHxte, Solawful
